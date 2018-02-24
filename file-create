@@ -1,0 +1,13 @@
+$ Shell command: date
+2	@ date
+3	
+4	{ -d date arithmetic #d
+5	
+6	Display the time described by the *user friendly* string, not by *now*.
+…	
+33	  gh|shell-commands|/date/TZ||
+34	
+35	}
+36	
+37	sa:
+38	  → Linux/shell/commands/faketime manipulates the system time for a given → Linux/shell/commands[command];
